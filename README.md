@@ -1,5 +1,5 @@
 # phaserTutorial
-Tuturial completed by Nathan Watts
+Tutorial completed by Nathan Watts
 
 All of my code is written in Part1.html
 
